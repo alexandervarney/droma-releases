@@ -9,29 +9,6 @@
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.3.0.dmg" length="4549363" type="application/octet-stream" sparkle:edSignature="NX1pbODCOhqQf9MkfX8ZQUX+Xh2UB8SOPkpsCXWzTWpSaHr/xSdSP1z9qZEEt+VKYyhMKX83CI4Sc8zXajFnDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma3-2.delta" sparkle:deltaFrom="2" length="548282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WsaCLkmrU4CUvzLv684UiEm9AkCj9yMr23ExvQg20doRmq65V7sQBr/1tqu4alAlZE2qFSNqyiWSjpBh/SXcDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma3-1.delta" sparkle:deltaFrom="1" length="556394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xQrfJnaeSUXeTVWDZ1nKiofrFurh2SHkl+TbfeslCWwZWKwOBtlnoe0+gdUsB2sViwUf9e0xGFqA8aNi5QfGDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Wed, 08 Jul 2026 15:07:33 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.2.0.dmg" length="4385803" type="application/octet-stream" sparkle:edSignature="cUCSXOZxUa1PvBlDdXW/ibmfOVnVsy/Dp3nKHJC0tAKmX667y6IQFky4DHa4/tN+1RKfamlB2fhG2Gt2A0wrCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma2-1.delta" sparkle:deltaFrom="1" length="206614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pn6vmvgRGFBtrbyrhbPDs6EVAv/df7NinkA3rZu2EBK0TNVc1yWWx6/4CZID24xrlbXUakt+s1wNLiKUby7sAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 08 Jul 2026 10:12:07 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.1.0.dmg" length="4380974" type="application/octet-stream" sparkle:edSignature="hiGVeTuqZp/aE/ElWKgOHRFIgUGneNAo+c/2bJrcvcD/gpq9rPlin7COR9oiTUBnpkpcbP8dwCu249kJcSU9BQ=="/>
         </item>
     </channel>
 </rss>

@@ -3,12 +3,12 @@
     <channel>
         <title>Droma</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Thu, 09 Jul 2026 09:06:57 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.4.0</title>
+            <pubDate>Thu, 09 Jul 2026 11:34:03 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.3.0.dmg" length="4549363" type="application/octet-stream" sparkle:edSignature="NX1pbODCOhqQf9MkfX8ZQUX+Xh2UB8SOPkpsCXWzTWpSaHr/xSdSP1z9qZEEt+VKYyhMKX83CI4Sc8zXajFnDg=="/>
+            <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.4.0.dmg" length="4614907" type="application/octet-stream" sparkle:edSignature="vLRu0+zaLWA2w22UhSmMYYWbhORLXBUBqnLvnYKg0WLkF36DgKThuzeDJQMY7Oz5Yd2OkUhtgcvACQWm9pG+Dw=="/>
         </item>
     </channel>
 </rss>

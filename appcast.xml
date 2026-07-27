@@ -3,6 +3,20 @@
     <channel>
         <title>Droma</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Mon, 27 Jul 2026 13:26:24 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.5.1.dmg" length="4974991" type="application/octet-stream" sparkle:edSignature="O2HSVRdsUgoJtWccdDoIfNNfJYH09n/WUDdcUbX/TSb91oFYB/1tAKHlNACSFJH/dar32DIySeypTadUDlChAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma8-7.delta" sparkle:deltaFrom="7" length="239078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UNEjygmxjlK9rrf77UEjfpRGGBSbB9hcfzYotR8RAz9kUXCMjV97PBz1wFgjRzt2SBQb7ieEuLJtRojObEsiDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma8-6.delta" sparkle:deltaFrom="6" length="531914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yczq9Qazvd7+OA+kDb8f7MCsLjn71kDnEScl03uwPk8qbEQs40cyRbVc/tMK1TWMCyOl3laDRh/hSXzltvTZAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma8-5.delta" sparkle:deltaFrom="5" length="605630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jDKwowyXg7E3jWSXRKg9SIxRN4EbAtnVqim7xyEzqTzLaIhTwQu3EvSUHRaYA/qm46d4CaYOgrSLex0QHCO9Dw=="/>
+                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma8-4.delta" sparkle:deltaFrom="4" length="707762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bmcqK1vvuMnxCr4e2AO94Z1o/6/iNK+TLQK1LjXCe37e1jhlHCtr4B+shR4ADQjY3XWkRCCwOXZi0/RqJ5ZeDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Mon, 27 Jul 2026 13:19:15 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma6-5.delta" sparkle:deltaFrom="5" length="436038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qlI6kO4XbNqUGfAylhdzazMvXTY8/YnvAyEZDgQDLPyCVhEScb42mLDYu4lw2pPCAl8fgQv4LHn+bRtriyAjAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma6-4.delta" sparkle:deltaFrom="4" length="569802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3q5AzS43MnLzFSa8aBI3l0YckUQdJPiOTKvpFpIbGlgaeG190bFPK+BKkUEeBoEsK5/z1NfB9Xu5Hbn3eYzCDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.1</title>
-            <pubDate>Thu, 09 Jul 2026 19:15:30 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma-0.4.1.dmg" length="4763523" type="application/octet-stream" sparkle:edSignature="2mwQTKNvZeNen0cJw03hbCnCAs48UhKlhtsMNK89s2tieA+fShOS+NK/mOcSSKUCv7Xp0X+WO9SDXUpvAwt5BQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/alexandervarney/droma-releases/main/releases/Droma5-4.delta" sparkle:deltaFrom="4" length="456778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k3jp3nVuGp6qFkbG/wKaL+FkA+0T7UOREfy3zFxjsRutKme3xrZI4HzvgKWw0shE7a0q8ZqYNlyimOX3DX5sAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

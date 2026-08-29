@@ -4,19 +4,32 @@
     {
       "source": "/appcast.xml",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=300, must-revalidate" },
-        { "key": "Content-Type", "value": "application/xml; charset=utf-8" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=300, must-revalidate"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        }
       ]
     },
     {
       "source": "/releases/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     }
   ],
   "redirects": [
-    { "source": "/download", "destination": "/releases/Droma-0.6.0.dmg", "permanent": false }
+    {
+      "source": "/download",
+      "destination": "/releases/Droma-0.6.1.dmg",
+      "permanent": false
+    }
   ],
   "cleanUrls": false,
   "trailingSlash": false

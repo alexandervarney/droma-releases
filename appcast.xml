@@ -3,6 +3,21 @@
     <channel>
         <title>Droma</title>
         <item>
+            <title>0.6.2</title>
+            <pubDate>Sat, 29 Aug 2026 20:01:16 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://updates.getdroma.com/releases/Droma-0.6.2.dmg" length="5582143" type="application/octet-stream" sparkle:edSignature="J+PVa5ZzzWtMtoGojWUnZn41a4NovIwvU/e4juYNgLVNKKsMi4tZlhxSbicVhi+r17evloPDSVkvPcynBM5yBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://updates.getdroma.com/releases/Droma11-10.delta" sparkle:deltaFrom="10" length="780038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8j5n8U1SxBsNovJcbqzip2kgN/zCL7HpjMiBWUQlBWEzTo5E94YDiJkOMo4IrCk3WEKrqkJQpqX8a8GvuskVCA=="/>
+                <enclosure url="https://updates.getdroma.com/releases/Droma11-9.delta" sparkle:deltaFrom="9" length="776358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e9OuSx5FaZAkYdA+ACzmnEHg4h8FXEhaT47VoBYr18U6gq25GQ5xZ4ZXfbr5k5aA2uJQwZ7+svCRytrvogJKDw=="/>
+                <enclosure url="https://updates.getdroma.com/releases/Droma11-8.delta" sparkle:deltaFrom="8" length="1378018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x5BJAUj3cs0SrKL34BplfddiC1n6yQwi51rQJXT7LcD7CqBaM2nIhOXQNpOzwRMLGJxaC/FzIBdK5Htlll60BA=="/>
+                <enclosure url="https://updates.getdroma.com/releases/Droma11-7.delta" sparkle:deltaFrom="7" length="1377446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R5OY9gQLFdFBiDgiirYXxgG7wDXS3nwDsrrcgkXXvOJqNPh1CMXukLs78P6cROeOaNnPYH3L6kqWfppEBbTcCw=="/>
+                <enclosure url="https://updates.getdroma.com/releases/Droma11-6.delta" sparkle:deltaFrom="6" length="1417366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z0WdEyPf/Ki+1oeH5AUSVtNE+891dXHYYo0kucIopKs5U9CiP/WEKG8mpe2INS811ctba0aQFUxSUAC8KaedBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.1</title>
             <pubDate>Sat, 29 Aug 2026 17:20:06 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -30,20 +45,6 @@
                 <enclosure url="https://updates.getdroma.com/releases/Droma9-6.delta" sparkle:deltaFrom="6" length="1166714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+7elACqE5qdWjNbfkZbKjHJpnOqI4+GDy8LTvPshctBsjjDbRnGLekcfb3Wrh+X4ZkMfv2fmpyxH3HgqssqrBg=="/>
                 <enclosure url="https://updates.getdroma.com/releases/Droma9-5.delta" sparkle:deltaFrom="5" length="1201666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LsPOVkl+G9L2pkevSQmC2FWFtkGYwdRAi7Uq8DElmTpK/rYdymkbVaY8EUWy1VExlDOx6GsdUiGkXxC2gna2AA=="/>
                 <enclosure url="https://updates.getdroma.com/releases/Droma9-4.delta" sparkle:deltaFrom="4" length="1248022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B2pH5GWS/UhaP4F+bDEJvmZGsV+psmmB6w32ytkmB5s/ERjLELExDc2QmKK0wk8lg/F85+lsTsMqkSI8xSLYBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.5.1</title>
-            <pubDate>Mon, 27 Jul 2026 13:26:24 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.getdroma.com/releases/Droma-0.5.1.dmg" length="4974991" type="application/octet-stream" sparkle:edSignature="O2HSVRdsUgoJtWccdDoIfNNfJYH09n/WUDdcUbX/TSb91oFYB/1tAKHlNACSFJH/dar32DIySeypTadUDlChAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://updates.getdroma.com/releases/Droma8-7.delta" sparkle:deltaFrom="7" length="239078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UNEjygmxjlK9rrf77UEjfpRGGBSbB9hcfzYotR8RAz9kUXCMjV97PBz1wFgjRzt2SBQb7ieEuLJtRojObEsiDw=="/>
-                <enclosure url="https://updates.getdroma.com/releases/Droma8-6.delta" sparkle:deltaFrom="6" length="531914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yczq9Qazvd7+OA+kDb8f7MCsLjn71kDnEScl03uwPk8qbEQs40cyRbVc/tMK1TWMCyOl3laDRh/hSXzltvTZAw=="/>
-                <enclosure url="https://updates.getdroma.com/releases/Droma8-5.delta" sparkle:deltaFrom="5" length="605630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jDKwowyXg7E3jWSXRKg9SIxRN4EbAtnVqim7xyEzqTzLaIhTwQu3EvSUHRaYA/qm46d4CaYOgrSLex0QHCO9Dw=="/>
-                <enclosure url="https://updates.getdroma.com/releases/Droma8-4.delta" sparkle:deltaFrom="4" length="707762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bmcqK1vvuMnxCr4e2AO94Z1o/6/iNK+TLQK1LjXCe37e1jhlHCtr4B+shR4ADQjY3XWkRCCwOXZi0/RqJ5ZeDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
